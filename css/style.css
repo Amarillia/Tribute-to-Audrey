@@ -1,3 +1,9 @@
 body{
 margin-top:60px;
 }
+
+#image {
+    display: block;
+    width: 100%;
+    height: auto;
+    }
